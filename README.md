@@ -2,7 +2,7 @@
 
 Tech Stack: Vue 3 (Composition API), Vite, Tailwind CSS, Vue Router, Axios.
 
-Watch this App live at: thanrestaurant.netlify.app
+Watch this App live at: [thanrestaurant.netlify.app](https://thanrestaurant.netlify.app/)
 
 Many thanks to the author of the template: https://www.justinmind.com/open-resource?url=/design-templates/restaurant-landing-page.vp
 
